@@ -1,0 +1,1 @@
+export const img_url = "https://img.freepik.com/free-photo/little-white-church-with-red-roof-reyniskyrka-vik-iceland_181624-14089.jpg?w=2000&t=st=1675616723~exp=1675617323~hmac=5042574a8fe8aafa2ae7f65601303e0157cd9dd2e613dfc7b17ed82809b2d89b"
